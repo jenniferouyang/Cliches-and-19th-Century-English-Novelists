@@ -257,7 +257,6 @@ a happy a larry
 a happy a clam
 a happy a sandboy
 a honest a day be long
-a if
 a keen a mustard
 a luck must have
 a old a methuselah
@@ -358,13 +357,11 @@ beast with two back
 beat about bush
 beat around bush
 beat by long chalk
-beat
 beat sword into ploughshare
 beat dead horse
 beat hasty retreat
 beat bush
 beat living daylight out of someone
-beat
 beauty be only skin deep
 beauty be fading flower
 beauty be in eye of beholder
@@ -432,7 +429,6 @@ bird in hand be worth two in bush
 bird bee
 bird of feather flock together
 bird of feather
-bite
 bite tongue
 bite off more than can chew
 bite bullet
@@ -461,7 +457,6 @@ blood on hand
 bloody minded
 bloom be off rose
 blow chunk
-blow
 blow down
 blow joint
 blow pop stand
@@ -1168,7 +1163,6 @@ fruit of loin
 fuddy duddy
 full monty
 full tilt
-full of
 full of hot air
 full of mischief
 full of piss vinegar
@@ -1777,7 +1771,6 @@ be piece of cake
 be white knuckle ride
 be ill fated idea
 will be cold day in hell
-will do
 wo fly
 be grist to mill
 be better to give than to receive
@@ -2206,7 +2199,6 @@ milk of human kindness
 mind manner
 mind own beeswax
 mind own business
-mind p q
 mind over matter
 misery love company
 missed by hair
@@ -2469,7 +2461,6 @@ one toe over line
 one for book
 one for road
 one in million
-one in million
 one heart content
 one hit wonder
 only game in town
@@ -2510,7 +2501,6 @@ over edge
 over hill
 over moon
 over top
-p q
 pack in
 packing heat
 packing lead
@@ -2880,7 +2870,6 @@ threw wet blanket on idea
 wear heart on sleeve
 must know from adam
 be loose cannon
-be that
 be be hit with ugly stick
 be burning candle at end
 be fighting losing battle
@@ -3554,7 +3543,6 @@ to cast first stone
 to chance arm
 to close rank
 to cry wolf
-to own
 to egg on
 to err be human
 to err be human to forgive divine
@@ -3584,8 +3572,7 @@ to talk gibberish
 to tell truth
 to toy with
 to travel hopefully be better thing than to arrive
-to wreak havock
-to t
+to wreak havoc
 to best of knowledge
 to bitter end
 to manner born
@@ -4066,7 +4053,6 @@ german voltaire
 gothamite
 hectic fever
 horn gate
-in in
 island of saint
 ivan ivanovitch
 jack brag
